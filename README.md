@@ -1,5 +1,5 @@
 # justhost-lookingglass
-JustHost Looking Glass
+JustHost Looking Glass batch ping tool, [https://justhost.asia/en/looking-glass](https://justhost.asia/en/looking-glass)
 
 ## Usage
 ```bash
